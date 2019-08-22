@@ -1,0 +1,49 @@
+f 'delsub.opsiscript' 2807 c6775abb5fb38de31de0082b0044b39f
+f 'setup.opsiscript' 5483 ba7f1b9fbc35b2da7fb35ad0044061f3
+f 'check_msi_exitcode.opsiscript' 10504 f82e313411afaa386573fdcf90e4c45a
+f '1031.mst' 212992 f3ef6b9fb0249417b665f3ef8879ed6f
+f 'SMARTLearningSuite.msi' 791347712 0b33fc3b0b96765e1114a1147fcde387
+f 'uninstall.opsiscript' 2202 726443817a78d4a8c4c173ca51f0b613
+d 'Support' 0 
+f 'Support/vstor_redist.exe' 40117912 88b8aa9e8c90818f98c80ac4dd998b88
+f 'Support/dotNetFx451_Full_setup.exe' 70087104 607d3c9b399e3d303a1b14eb4326bd1e
+f 'Support/SMART Install Manager.exe' 30620720 83138952f26b4d795ebd5f91ed623126
+d 'Support/Languages' 0 
+f 'Support/Languages/slovak_handwriting.msi' 18882560 6421cefd5e4fb37ed52caed89a3ac91e
+f 'Support/Languages/hebrew_handwriting.msi' 21114880 090f9a71061ff7a49cf87d5f230a6512
+f 'Support/Languages/latvian_handwriting.msi' 17596416 313b022f25318a6aa7e78c2dfb3fc691
+f 'Support/Languages/turkish_handwriting.msi' 20901888 a271c17e015320ba5d187d62e2fa502a
+f 'Support/Languages/vietnamese_handwriting.msi' 20430848 12c8c58e21eec2fe2951c3882af736f8
+f 'Support/Languages/estonian_handwriting.msi' 19603456 e2a9daef589695f3b8979d901ee2328f
+f 'Support/Languages/italian_handwriting.msi' 18329600 45a0fb559b2d821a853c0c4c5bfdfa6f
+f 'Support/Languages/lithuanian_handwriting.msi' 17326080 63eb928b0001079479fdfe34c9b9eb17
+f 'Support/Languages/french_handwriting.msi' 31707136 20f23b959c33eb3f432e4273eed03999
+f 'Support/Languages/chinese_(traditional)_handwriting.msi' 37216256 82bc40b34bae6493e6d4107e925c1a3a
+f 'Support/Languages/english_(united_kingdom)_handwriting.msi' 39051264 509dd0b47b60431e3fb142014d3510a9
+f 'Support/Languages/chinese_(simplified)_handwriting.msi' 68562944 45b417a03a87fbc714840f7b6e35ecbc
+f 'Support/Languages/hungarian_handwriting.msi' 28831744 9bdb42de73d10185e784d527daa71c55
+f 'Support/Languages/polish_handwriting.msi' 21139456 98dae079bed88a8e6f0e8f0e995e3c7f
+f 'Support/Languages/danish_handwriting.msi' 17887232 4b0a8497046e7f89cd7053373c1fd2dc
+f 'Support/Languages/finnish_handwriting.msi' 24334336 cddb9a9928399cdf4fb249d23331eed5
+f 'Support/Languages/swedish_handwriting.msi' 18755584 b79617e9073ab35570751549c2a09c6a
+f 'Support/Languages/russian_handwriting.msi' 20873216 de57df46700ae5c7b0cf7e1e5f985b44
+f 'Support/Languages/malaysian_handwriting.msi' 16416768 3bfd7530bed9d239c99aa39d7fdd4048
+f 'Support/Languages/arabic_handwriting.msi' 25284608 f51f1046094fe5f300732ef724af6c5d
+f 'Support/Languages/norwegian_handwriting.msi' 19091456 0c7cd7cf7089dcb41d19a5d0969b2952
+f 'Support/Languages/korean_handwriting.msi' 29675520 62ba953d54f42d683f5b051e93c4896c
+f 'Support/Languages/german_handwriting.msi' 41025536 1923a817d4c15aa733298cb4abcfb6d1
+f 'Support/Languages/ukrainian_handwriting.msi' 22028288 db4b2b284032c319b8dbb30bdce78a73
+f 'Support/Languages/romanian_handwriting.msi' 18145280 1d4d1a3e540153dbe7f5b683e1d71eb9
+f 'Support/Languages/kazakh_handwriting.msi' 17674240 19111287162888d8398581fea0c7e4f6
+f 'Support/Languages/greek_handwriting.msi' 18657280 850a04a1813f0198138b3360043f6cb1
+f 'Support/Languages/dutch_handwriting.msi' 36085760 65907fa5e4e80fe06800a9fce40f4d4a
+f 'Support/Languages/spanish_handwriting.msi' 35115008 0ef130c7b04a2a0613a2501b356028b7
+f 'Support/Languages/japanese_handwriting.msi' 29433856 65a65f916518800d14d6ff6a65cc5d95
+f 'Support/Languages/portuguese_(brazil)_handwriting.msi' 35344384 069f4c64cab26d3ced2b738370a0e4e2
+f 'Support/Languages/czech_handwriting.msi' 21573632 9d696489c1ccc3ae821bbb9a957f3afe
+d 'Support/Galleries' 0 
+f 'Support/Galleries/SMARTGalleryEssentials.msi' 404013056 c685fa6ac66c5181dddc279b50ed3a45
+f 'Support/Galleries/SMARTLessonActivityToolkit.msi' 11034624 e6a27d418482c3ecfdc7dd450ab53595
+d 'Support/TSCC' 0 
+f 'Support/TSCC/tscc.msi' 1126400 4aed7e99bb205047ff34e17789fee270
+f 'Support/vstor_redist.exe.md5sum.txt' 66 ef70813d18c08fda6a0950eef0eb59dd

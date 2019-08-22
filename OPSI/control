@@ -1,0 +1,45 @@
+[Package]
+version: 1
+depends: 
+incremental: False
+
+[Product]
+type: localboot
+id: smart_learning_suite
+name: SMART Learning Suite
+description: SMART Learning Suite
+advice: 
+
+version: 18.1.510.0
+priority: 0
+licenseRequired: False
+productClasses: 
+setupScript: setup.opsiscript
+uninstallScript: uninstall.opsiscript
+updateScript: 
+alwaysScript: 
+onceScript: 
+customScript: 
+userLoginScript: 
+
+[ProductProperty]
+type: unicode
+name: installparameters
+multivalue: False
+editable: True
+description: Complete Install parameters
+values: ["INSTALL_BOARD=\"\" INSTALL_INK=\"\" NB_PROD_KEY=XXXXXX-XXXX-XXXX ACTIVATE_LICENSE=0 /qn"]
+default: ["INSTALL_BOARD=\"\" INSTALL_INK=\"\" /qn"]
+
+[Changelog]
+smart_learning_suite (18.1.510.0-1) stable; urgency=low
+
+Project copied from: smart-learning-suite_18.1.510.0-1.opsi
+
+ -- Package Maintainer <maintainer@server.local.net>  Fri, 17 May 2019 13:50:05 +0000
+
+smart-learning-suite (18.1.510.0-1) stable; urgency=low
+
+	* initial: created by opsi-setup-detector
+
+ -- opsisetupdetector.exe <info@uib.de>  17.05.2019 13:40:24
