@@ -5,8 +5,8 @@ incremental: False
 
 [Product]
 type: localboot
-id: smart_learning_suite
-name: SMART Learning Suite
+id: teska-smart_learning_suite
+name: teska-smart_learning_suite
 description: SMART Learning Suite
 advice: 
 
